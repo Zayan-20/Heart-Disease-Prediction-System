@@ -80,7 +80,7 @@ with header_col2:
         f"""
         <div style="display: flex; justify-content: flex-end; padding-top: 20px;">
             <a href="{GITHUB_URL}" target="_blank"
-               title="Visit Abdul Muqeet's GitHub"
+               title="Visit Zayan Amjad's GitHub"
                style="text-decoration: none; color: inherit;">
                 <svg xmlns="http://www.w3.org/2000/svg"
                      width="34" height="34" viewBox="0 0 24 24"
@@ -108,7 +108,7 @@ st.markdown(
         Created by
         <a href="{GITHUB_URL}" target="_blank"
            style="color: inherit; font-weight: 600; text-decoration: none;">
-            Abdul Muqeet
+            Zayan Amjad
         </a>
     </div>
     """,
